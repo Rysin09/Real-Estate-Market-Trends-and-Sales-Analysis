@@ -1,6 +1,6 @@
 # Real Estate Market & Sales Analytics Dashboard
 
-This repository contains a dynamic and insightful **Power BI** dashboard designed for the strategic analysis of the real estate market. The project leverages a robust technical architecture to process and visualize over **10,000 records**, transforming raw sales data into actionable business intelligence.
+This repository contains a dynamic and insightful **Power BI** dashboard designed for the strategic analysis of the real estate market. The project leverages a robust technical architecture to process and visualize over **100,000 records**, transforming raw sales data into actionable business intelligence.
 
 The dashboard provides a multi-dimensional view of market trends, asset performance, and investment potential using a historical dataset that extends back to 1992. It is designed for stakeholders, investors, and analysts to identify opportunities, evaluate assets, and make informed, data-driven decisions.
 
